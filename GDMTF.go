@@ -1,4 +1,4 @@
-// ContractChaincode LogManagement4SmartGrid
+// Chaincode GenomicDataManagement&TransactionFramework
 type SimpleChaincode struct {
 }
 
